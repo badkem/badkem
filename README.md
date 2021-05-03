@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20Guys&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&text=%20Hi%20Guys%20&height=300&fontSize=80)
 
 ## 
 - 🔭 I’m currently studying ...
